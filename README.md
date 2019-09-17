@@ -1,4 +1,3 @@
 # proyek-tugas-1
-## kontl
-
-jkojhgh
+## Ahmad pradipta
+### progress on going
